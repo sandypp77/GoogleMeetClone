@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../src/handlers/sdp/types.ts"],"names":[],"mappings":"AAEA,MAAM,MAAM,eAAe,GAAG,eAAe,EAAE,CAAC;AAGhD,MAAM,MAAM,eAAe,GAC3B;IACC,IAAI,EAAE,MAAM,GAAG,MAAM,CAAC;IACtB,MAAM,EAAE,OAAO,CAAC;CAChB,CAAC"}

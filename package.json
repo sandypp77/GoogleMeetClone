@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "bcrypt": "^5.1.0",
+    "connect-history-api-fallback": "^2.0.0",
+    "express": "^4.18.2",
+    "httpolyglot": "^0.1.2",
+    "mediasoup": "^3.11.20",
+    "mediasoup-client": "^3.6.83",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.7",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13",
+    "vue-router": "^4.1.3",
+    "watch": "^1.0.2",
+    "watchify": "^4.0.0"
+  },
+  "name": "googlemeetclone",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Server-side/node/app.js",
+    "server": "nodemon Server-side/api/server.js"
+  },
+  "author": "sandy",
+  "license": "ISC",
+  "description": ""
+}
